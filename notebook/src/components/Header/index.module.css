@@ -1,0 +1,23 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2.44rem;
+    background-color: #08c;
+}
+    h1 {
+    text-align: center;
+    font-size: 1rem;
+    color:#fff;
+    height: 100%;
+    line-height: 2.44rem;
+}
+    .icon {
+    position: absolute;
+    top:.1rem;
+    right:.5rem;
+    color: #fff;
+}
+
+    

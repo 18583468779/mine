@@ -1,0 +1,25 @@
+.input{
+    width: 100%;
+    background:transparent;
+    height: 2rem;
+    text-align: center;
+}
+.input input{
+    width: 70%;
+    height: 100%;
+    outline: none;
+    border: 0;
+    padding-left: 1rem;
+    background:#ccc;
+}
+.input .inputChage{
+  border: 1px solid #08c;
+}
+.input button{
+    width: 20%;
+    height: 100%;
+    border: none;
+    outline: none;
+    background: #08c;
+    color: white;
+}
